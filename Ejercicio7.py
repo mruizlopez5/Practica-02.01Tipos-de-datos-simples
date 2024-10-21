@@ -5,5 +5,5 @@ es el índice de masa corporal calculado redondeado con dos decimales."""
 
 kg = float(input("introduce tu peso en kg\n"))
 m = float(input("introduce tu altura en metros\n"))
-imc = kg/m
+imc = kg/(m*m)
 print("Tu índice de masa corporal es "+ str(round(imc,2)))
