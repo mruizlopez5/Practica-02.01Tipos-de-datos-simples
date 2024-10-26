@@ -11,4 +11,4 @@ años = int(input("introduce el numero de años que estrá en inversion\n"))
 
 total = inversion*pow((1+interes),años)
 
-print("has capitalizado un capital total de: ",str(total)," capitales")
+print("has capitalizado un capital total de: ",str(total)," capitales slu2")
